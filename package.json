@@ -8,6 +8,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://sujalsoni314.github.io/tech-by-sumedh",
   "dependencies": {
     "autoprefixer": "10.4.14",
     "framer-motion": "^10.12.16",
