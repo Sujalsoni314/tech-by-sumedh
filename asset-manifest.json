@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tech-by-sumedh/static/css/main.19d72fa9.css",
+    "main.js": "/tech-by-sumedh/static/js/main.16b6a59b.js",
+    "index.html": "/tech-by-sumedh/index.html",
+    "main.19d72fa9.css.map": "/tech-by-sumedh/static/css/main.19d72fa9.css.map",
+    "main.16b6a59b.js.map": "/tech-by-sumedh/static/js/main.16b6a59b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19d72fa9.css",
+    "static/js/main.16b6a59b.js"
+  ]
+}
