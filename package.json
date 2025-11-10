@@ -2,13 +2,15 @@
   "name": "tech-by-sumedh",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://sujalsoni314.github.io/tech-by-sumedh",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "homepage": "https://sujalsoni314.github.io/tech-by-sumedh",
   "dependencies": {
     "autoprefixer": "10.4.14",
     "framer-motion": "^10.12.16",
@@ -30,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
